@@ -1,2 +1,1 @@
-In these exercises, I didn't use AI assistants to help me solve problems, but I only use it to help me
-about some vocabulary and grammar for writing descriptions in English
+In these exercises, I used AI assistants to guide me Assigment 2 anhd 3 and I also used it to help me about some vocabulary and grammar for writing descriptions in English
