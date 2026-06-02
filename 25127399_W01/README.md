@@ -1,1 +1,5 @@
-In these exercises, I used AI assistants to guide me Assigment 2 anhd 3 and I also used it to help me about some vocabulary and grammar for writing descriptions in English
+In these exercises, I used AI assistants to guide me Assigment 2 and 3 and I also used it to help me about some vocabulary and grammar for writing descriptions in English
+
+In Assignment 2, I both watched YouTube tutorials and asked AI for guidance. My prompt was: "Cách tạo GitHub Page"
+
+In Assignment 3, I asked an AI chatbot to generate a prompt for me to use for AI Agent. My prompt was: "Tôi có 1 Folder bao gồm các file chương trình cần thiết nhưng hiện tại đang code theo kiểu viết hàm, tôi muốn nhờ AI Agent vibe coding để tự động chỉnh sửa các file đó theo cấu trục OOP thì tôi nên prompt như thế nào"
