@@ -1,0 +1,1 @@
+In Assignment 2, I asked AI assistant about How to implement Current date for Default Constructor. Prompt: "Cách implement Current Date khi cài đặt Constructor cho class Date"
